@@ -1,20 +1,5 @@
 # TP 18 : Implémentation d'un Service gRPC avec Spring Boot
 
-Ce projet représente le **TP 18**, consistant à implémenter un **service gRPC** avec **Spring Boot** pour gérer des **comptes bancaires**.  
-Le service permet la **consultation**, la **création** et la **mise à jour** de comptes via un protocole rapide et moderne basé sur **gRPC** et **Protocol Buffers**.
-
----
-
-## 📘 Fonctionnalités
-
-- 🔍 **Consulter un compte bancaire**
-- ➕ **Créer un nouveau compte**
-- ✏️ **Mettre à jour un compte existant**
-- ⚡ Communication optimisée grâce à **gRPC**
-- 🔧 Architecture basée sur **Spring Boot**
-
----
-
 - Les Tester avec BloomRPC:
 
 - saveCompte:
