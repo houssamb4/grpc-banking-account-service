@@ -3,18 +3,16 @@
 - Les Tester avec BloomRPC:
 
 - saveCompte:
-<img width="960" height="540" alt="saveCompte" src="https://github.com/user-attachments/assets/56d37825-d019-4fb4-aebc-73ee08b5c925" />
+<img width="960" height="540" alt="saveCompte" src="https://github.com/user-attachments/assets/2bc08775-c055-4338-8b9c-e3f3244caf1d" />
 
 - AllCompte
 
-<img width="960" height="540" alt="AllComptes" src="https://github.com/user-attachments/assets/8a8da15b-6ed8-414f-976a-7fbca6755e42" />
+<img width="960" height="540" alt="AllComptes" src="https://github.com/user-attachments/assets/0f1870a8-ed95-4fb4-a56f-313750fe2510" />
 
 - CompteById
 
-<img width="960" height="540" alt="CompteById" src="https://github.com/user-attachments/assets/c7d9de59-01d1-4a96-abda-3fc4b91fbb24" />
+<img width="960" height="540" alt="CompteById" src="https://github.com/user-attachments/assets/e7afdbb1-ef06-4eb1-9074-c8a578d8f6f1" />
 
 - TotalSolde
 
-<img width="960" height="540" alt="TotalSolde" src="https://github.com/user-attachments/assets/5df29e0c-360b-45b6-820a-bba3d10f799f" />
-
-  
+<img width="960" height="540" alt="TotalSolde" src="https://github.com/user-attachments/assets/e1db5d6c-8fed-41b5-9690-9b1770c97fd2" />
